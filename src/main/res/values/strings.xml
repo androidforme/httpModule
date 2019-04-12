@@ -1,0 +1,13 @@
+<resources>
+    <!--<string name="app_name">http</string>-->
+
+    <string name="base_http_loading">加载中...</string>
+
+    <!-- 网络错误 -->
+    <string name="base_http_network_server_error">服务器错误</string>
+    <string name="base_http_network_auth_failure_error">认证失败</string>
+    <string name="base_http_network_timeout_error">网络连接超时</string>
+    <string name="base_http_network_error">网络连接错误，请检查网络。</string>
+    <string name="base_http_network_unknown_error">未知的网络错误</string>
+    <string name="base_http_network_user_login_on_other">令牌已过期，请重新登录。</string>
+</resources>
